@@ -27,6 +27,8 @@ header {
 
 /*---------- CONTENT AREA ----------*/
 
+/* main color scheme from colorcode.is */
+
 .col-3 {
   width: 100%;
   height: 320px;
@@ -34,15 +36,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: #7cb9e8;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #e8ab7c;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #b9e87c;
 }
 
 
@@ -78,7 +80,7 @@ footer {
   footer {
     background-color: ;
   }
-  
+
 }
 
 
@@ -103,5 +105,5 @@ footer {
   footer {
     background-color: ;
   }
-   
+
 }
