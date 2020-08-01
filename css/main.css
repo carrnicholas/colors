@@ -67,14 +67,17 @@ footer {
 
   #column-1 {
     background-color: #2588d5;
+    width: 100%;
   }
 
   #column-2 {
     background-color: #4da0e0;
+    width: 50%
   }
 
   #column-3 {
     background-color: #e8b47c;
+    width: 50%;
   }
 
   footer {
@@ -94,14 +97,17 @@ footer {
 
   #column-1 {
     background-color: #64cddd;
+    width: 33%
   }
 
   #column-2 {
     background-color: #6484dd;
+    width: 33%
   }
 
   #column-3 {
     background-color: #807ce8;
+    width: 33%
   }
 
   /* colors above are analogous colors of #7cb9e8 */
